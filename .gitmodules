@@ -1,0 +1,96 @@
+[submodule "c/misc/eddy"]
+	path = c/misc/eddy
+	url = https://github.com/Jacob-C-Smith/eddy
+[submodule "c/misc/hwinfo"]
+	path = c/misc/hwinfo
+	url = https://github.com/Jacob-C-Smith/hwinfo
+[submodule "c/misc/log"]
+	path = c/misc/log
+	url = https://github.com/Jacob-C-Smith/log
+[submodule "c/misc/chat-room"]
+	path = c/misc/chat-room
+	url = https://github.com/Jacob-C-Smith/chat-room
+[submodule "c/primitives/crypto"]
+	path = c/primitives/crypto
+	url = https://github.com/Jacob-C-Smith/crypto
+[submodule "c/primitives/socket"]
+	path = c/primitives/socket
+	url = https://github.com/Jacob-C-Smith/socket
+[submodule "c/primitives/sync"]
+	path = c/primitives/sync
+	url = https://github.com/Jacob-C-Smith/sync
+[submodule "c/abstract-data-i/array"]
+	path = c/abstract-data-i/array
+	url = https://github.com/Jacob-C-Smith/array
+[submodule "c/abstract-data-i/dict"]
+	path = c/abstract-data-i/dict
+	url = https://github.com/Jacob-C-Smith/dict
+[submodule "c/abstract-data-i/queue"]
+	path = c/abstract-data-i/queue
+	url = https://github.com/Jacob-C-Smith/queue
+[submodule "c/abstract-data-i/set"]
+	path = c/abstract-data-i/set
+	url = https://github.com/Jacob-C-Smith/set
+[submodule "c/abstract-data-i/stack"]
+	path = c/abstract-data-i/stack
+	url = https://github.com/Jacob-C-Smith/stack
+[submodule "c/abstract-data-i/tuple"]
+	path = c/abstract-data-i/tuple
+	url = https://github.com/Jacob-C-Smith/tuple
+[submodule "c/abstract-data-ii/table"]
+	path = c/abstract-data-ii/table
+	url = https://github.com/Jacob-C-Smith/table
+[submodule "c/abstract-data-ii/tree"]
+	path = c/abstract-data-ii/tree
+	url = https://github.com/Jacob-C-Smith/tree
+[submodule "c/parser-serializer/base64"]
+	path = c/parser-serializer/base64
+	url = https://github.com/Jacob-C-Smith/base64
+[submodule "c/parser-serializer/http"]
+	path = c/parser-serializer/http
+	url = https://github.com/Jacob-C-Smith/http
+[submodule "c/parser-serializer/json"]
+	path = c/parser-serializer/json
+	url = https://github.com/Jacob-C-Smith/json
+[submodule "c/parser-serializer/path"]
+	path = c/parser-serializer/path
+	url = https://github.com/Jacob-C-Smith/path
+[submodule "c/performance-computing/parallel"]
+	path = c/performance-computing/parallel
+	url = https://github.com/Jacob-C-Smith/parallel
+[submodule "c/performance-computing/vectorize"]
+	path = c/performance-computing/vectorize
+	url = https://github.com/Jacob-C-Smith/vectorize
+[submodule "c/performance-computing/web"]
+	path = c/performance-computing/web
+	url = https://github.com/Jacob-C-Smith/web
+[submodule "c/user-interface/ui"]
+	path = c/user-interface/ui
+	url = https://github.com/Jacob-C-Smith/ui
+[submodule "c/g10-utilities/ai-tool"]
+	path = c/g10-utilities/ai-tool
+	url = https://github.com/Jacob-C-Smith/ai-tool
+[submodule "c/g10-utilities/shader-compiler"]
+	path = c/g10-utilities/shader-compiler
+	url = https://github.com/Jacob-C-Smith/shader-compiler
+[submodule "c/g10/g10"]
+	path = c/g10/g10
+	url = https://github.com/Jacob-C-Smith/g10
+[submodule "python/gport"]
+	path = python/gport
+	url = https://github.com/Jacob-C-Smith/gport
+[submodule "schema/gschema"]
+	path = schema/gschema
+	url = https://github.com/Jacob-C-Smith/gschema
+[submodule "schema/ui-schema"]
+	path = schema/ui-schema
+	url = https://github.com/Jacob-C-Smith/ui-schema
+[submodule "javascript/g10-web"]
+	path = javascript/g10-web
+	url = https://github.com/Jacob-C-Smith/g10-web
+[submodule "shell/gpack"]
+	path = shell/gpack
+	url = https://github.com/Jacob-C-Smith/gpack
+[submodule "c/user-interface/gui-designer"]
+	path = c/user-interface/gui-designer
+	url = https://github.com/Jacob-C-Smith/gui-designer
