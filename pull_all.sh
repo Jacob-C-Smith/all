@@ -423,6 +423,22 @@ pull_shell ( ) {
     cd ..
 }
 
+# Pull gicon
+pull_gicon ( ) { 
+    echo -e "\nPulling gicon..."
+    cd "gicon"
+    git pull origin main --rebase 2>&1 | tail -n 1
+    cd ..
+}
+
+# Pull assets
+pull_assets ( ) {
+    echo -e "\n┌────────────────┐\n│ Pulling Assets │\n└────────────────┘"
+    cd assets
+    pull_gicon
+    cd ..
+}
+
 # Pull everything
 pull_all ( ) {
     echo -e "\n╔════════════════════╗\n║ Pulling everything ║\n╚════════════════════╝"
@@ -431,6 +447,7 @@ pull_all ( ) {
     pull_python
     pull_schema
     pull_shell
+    pull_assets
 }
 
 pull_all
