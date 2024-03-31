@@ -94,3 +94,27 @@
 [submodule "c/user-interface/gui-designer"]
 	path = c/user-interface/gui-designer
 	url = https://github.com/Jacob-C-Smith/gui-designer
+[submodule "c/primitives/log"]
+	path = c/primitives/log
+	url = https://github.com/Jacob-C-Smith/log
+[submodule "c/primitives/hash-cache"]
+	path = c/primitives/hash-cache
+	url = https://github.com/Jacob-C-Smith/hash-cache
+[submodule "c/abstract-data-ii/double-queue"]
+	path = c/abstract-data-ii/double-queue
+	url = https://github.com/Jacob-C-Smith/double-queue
+[submodule "c/abstract-data-iii/data"]
+	path = c/abstract-data-iii/data
+	url = https://github.com/Jacob-C-Smith/data
+[submodule "c/abstract-data-iii/tree"]
+	path = c/abstract-data-iii/tree
+	url = https://github.com/Jacob-C-Smith/tree
+[submodule "c/performance-computing/renderer"]
+	path = c/performance-computing/renderer
+	url = https://github.com/Jacob-C-Smith/renderer
+[submodule "c/performance-computing/distribute"]
+	path = c/performance-computing/distribute
+	url = https://github.com/Jacob-C-Smith/distribute
+[submodule "c/performance-computing/eddy"]
+	path = c/performance-computing/eddy
+	url = https://github.com/Jacob-C-Smith/eddy
