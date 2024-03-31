@@ -118,3 +118,6 @@
 [submodule "c/performance-computing/eddy"]
 	path = c/performance-computing/eddy
 	url = https://github.com/Jacob-C-Smith/eddy
+[submodule "assets/gicon"]
+	path = assets/gicon
+	url = https://github.com/Jacob-C-Smith/gicon
