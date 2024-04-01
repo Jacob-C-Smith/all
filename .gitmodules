@@ -121,3 +121,6 @@
 [submodule "assets/gicon"]
 	path = assets/gicon
 	url = https://github.com/Jacob-C-Smith/gicon
+[submodule "assets/gconfig"]
+	path = assets/gconfig
+	url = https://github.com/Jacob-C-Smith/gconfig
