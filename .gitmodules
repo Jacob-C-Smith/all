@@ -124,3 +124,6 @@
 [submodule "assets/gconfig"]
 	path = assets/gconfig
 	url = https://github.com/Jacob-C-Smith/gconfig
+[submodule "c/abstract-data-iii/geometry"]
+	path = c/abstract-data-iii/geometry
+	url = https://github.com/Jacob-C-Smith/geometry
